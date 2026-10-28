@@ -27,3 +27,5 @@ node_modules
 *~
 
 .idea
+.node-opcua-pki
+.opcua-pki
